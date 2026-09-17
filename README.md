@@ -12,17 +12,25 @@ I build operational web apps for bars and restaurants, plus gaming community too
 
 ---
 
+## Одоо юу хийж байна
+
+- Бар/рестораны өдөр тутмын борлуулалт, нөөц, тайлангийн апп- шинэчлэж байна
+- Gaming community (Steam catalog, rating, chat) — TypeScript + Postgres
+- Профайл болон төслийн документацийг тасралтай баримтлах
+
+---
+
 ## Featured
 
-### [Нэрийн хуудас](https://github.com/XalMorak/margad)
-Маргад-Эрдэнэ Сүхбаатар — намтар, ажил, төсөл, холбоо.
-
 ### [Борлуулалт](https://github.com/XalMorak/borluulalt)
-Bar / restaurant sales, stock, dispatch, and reports.
+Bar / restaurant sales, stock, dispatch, and reports.  
 Live: [borluulalt-xalmorak.vercel.app](https://borluulalt-xalmorak.vercel.app)
 
 ### [Xal'Morak Hub](https://github.com/XalMorak/xalmorak-hub)
 Gaming community: Steam catalog, ratings, lounge, private and group chat.
+
+### [Нэрийн хуудас](https://github.com/XalMorak/margad)
+Маргад-Эрдэнэ Сүхбаатар — намтар, ажил, төсөл, холбоо.
 
 ---
 
